@@ -14,7 +14,7 @@ Dùng ls (Mac) hoặc dir (Windows) để xem nội dung thư mục.
 
 ## 4. Tạo ứng dụng React
 
-- npx create-react-app pizza-menu@5
+- npx create-react-app@5 pizza-menu
 
 pizza-menu là tên thư mục dự án <br>
 @5 dùng để khóa phiên bản 5 của CRA (tương thích bài giảng)
